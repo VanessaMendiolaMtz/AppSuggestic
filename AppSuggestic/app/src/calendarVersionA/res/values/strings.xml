@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppSuggesticA</string>
+
+    //Progress Dialog
+    <string name="txt_title_progress_dialog">Loading...</string>
+    <string name="txt_subtitle_progress_dialog">Processing request</string>
+
+    <string name="txt_alert_dialog">Ok</string>
+</resources>
